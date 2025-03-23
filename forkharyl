@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Partner's Name] - Wikipedia</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; }
+        h1 { font-size: 28px; color: #000080; }
+        .infobox { float: right; width: 300px; background: #f3f3f3; padding: 10px; border-radius: 8px; border: 1px solid #ccc; }
+        .infobox img { width: 100%; border-radius: 5px; }
+        table { width: 100%; border-collapse: collapse; }
+        td, th { border: 1px solid #ccc; padding: 8px; }
+        .footer { font-size: 12px; color: #777; text-align: center; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>[Partner's Name]</h1>
+        <div class="infobox">
+            <img src="[IMAGE_URL]" alt="Partner's Image">
+            <table>
+                <tr><th colspan="2">Personal Details</th></tr>
+                <tr><td><b>Born</b></td><td>[Birthday]</td></tr>
+                <tr><td><b>Nationality</b></td><td>100% Adorable</td></tr>
+                <tr><td><b>Occupation</b></td><td>Best Partner Ever</td></tr>
+                <tr><td><b>Years Active</b></td><td>Since [Anniversary Date]</td></tr>
+                <tr><td><b>Known for</b></td><td>Being the cutest, giving the best hugs</td></tr>
+            </table>
+        </div>
+        
+        <h2>Early Life & Background</h2>
+        <p>[Partner's Name] was born on a legendary day, increasing worldwide cuteness levels. From an early age, they excelled in [cute habit] and were known for their incredible ability to [adorable skill].</p>
+        
+        <h2>Awards & Achievements</h2>
+        <ul>
+            <li>🏆 Best Hugger Award</li>
+            <li>🍕 Snack Master Champion</li>
+            <li>💖 Most Adorable Human Ever</li>
+        </ul>
+        
+        <h2>Relationship Timeline</h2>
+        <p>Historians mark the day [Partner's Name] and [Your Name] met as a turning point in history. Key milestones include:</p>
+        <ul>
+            <li><b>First Date:</b> Cuteness overload!</li>
+            <li><b>First 'I Love You':</b> Scientists confirm it increased love energy worldwide.</li>
+            <li><b>Inside Jokes Created:</b> Too many to count!</li>
+        </ul>
+        
+        <h2>Love Compatibility Analysis</h2>
+        <table>
+            <tr><th>Category</th><th>Score</th></tr>
+            <tr><td>Cuteness Sync</td><td>💯%</td></tr>
+            <tr><td>Hug Chemistry</td><td>Infinity</td></tr>
+            <tr><td>Snack Sharing</td><td>90% (except when stealing bites!)</td></tr>
+        </table>
+        
+        <h2>Movie & Book Adaptations</h2>
+        <p>A movie based on [Partner's Name]'s life titled <b>"The Cutest Love Story Ever"</b> is currently in production.</p>
+        
+        <h2>Fan Theories & Speculations</h2>
+        <p>Rumors suggest [Partner's Name] might actually be an angel sent to make the world a better place. Confirmed? Maybe. True? Absolutely!</p>
+        
+        <div class="footer">
+            <p>Last edited by: [Your Name] | This page is 100% factually accurate and cannot be disputed.</p>
+        </div>
+    </div>
+</body>
+</html>
